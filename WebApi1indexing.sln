@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi1indexing", "WebApi1indexing\WebApi1indexing.csproj", "{FFC8E2EA-BCA3-4DD3-AC02-9B949B4746B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataAccess", "StudentDataAccess\StudentDataAccess.csproj", "{22415D16-125E-4D4E-A5A9-202819962CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC8E2EA-BCA3-4DD3-AC02-9B949B4746B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC8E2EA-BCA3-4DD3-AC02-9B949B4746B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC8E2EA-BCA3-4DD3-AC02-9B949B4746B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC8E2EA-BCA3-4DD3-AC02-9B949B4746B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22415D16-125E-4D4E-A5A9-202819962CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22415D16-125E-4D4E-A5A9-202819962CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22415D16-125E-4D4E-A5A9-202819962CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22415D16-125E-4D4E-A5A9-202819962CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06BE1AB4-2389-42B7-86B1-4B0EE63BEF21}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\obj\Debug\StudentDataAccess.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+C:\Users\Administrator\source\repos\WebApi1indexing\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
